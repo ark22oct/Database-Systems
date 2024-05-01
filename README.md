@@ -1,6 +1,6 @@
 # Database Systems
 
-Lab work and term project for Database Systems accomplished using SQL, Unix Shell, and Java.
+Lab work and term project for Database Systems accomplished using SQL, Unix Shell, and Java. Feel free to reference, but avoid copying.
 
 Advanced file management techniques involving fundamentals of database organization, design and management. Emphasis is given to Relational Database Management Systems including relational algebra, normal Forms, physical Database Structures and their implementation, and Relational Database Languages. Other types of Database Managers are also discussed such as Hierarchical, Network and Inverted Files.
 
