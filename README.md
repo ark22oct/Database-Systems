@@ -4,7 +4,7 @@ Lab work and term project for Database Systems accomplished using SQL, Unix Shel
 
 Advanced file management techniques involving fundamentals of database organization, design and management. Emphasis is given to Relational Database Management Systems including relational algebra, normal Forms, physical Database Structures and their implementation, and Relational Database Languages. Other types of Database Managers are also discussed such as Hierarchical, Network and Inverted Files.
 
-# Project (Hotel Management System) Overview:
+# Project (Hotel Management System) Overview
 
 1. Database Schema Design: Defines the database schema for managing various aspects of a hotel, including amenities, guests, rooms, departments, employees, and facilitates             
    relationships between them.
