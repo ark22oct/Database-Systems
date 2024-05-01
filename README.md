@@ -30,4 +30,5 @@ Advanced file management techniques involving fundamentals of database organizat
 <img width="272" alt="Screen Shot 2024-05-01 at 5 39 20 PM" src="https://github.com/ark22oct/Database-Systems/assets/77360623/aab754fc-36f7-4b69-b4ea-e27b84c3622b">
 
 
+
 Overall, the hotel management system project demonstrates a robust solution for managing various aspects of a hotel's operations, ranging from guest management to room allocation and employee scheduling. It integrates theoretical concepts with practical implementation using SQL, Unix Shell, and Java programming.
