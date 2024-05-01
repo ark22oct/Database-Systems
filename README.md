@@ -20,10 +20,13 @@ Advanced file management techniques involving fundamentals of database organizat
 
 ## Entity-Relation Diagram:
 <img width="1000" alt="Screen Shot 2024-05-01 at 5 37 45 PM" src="https://github.com/ark22oct/Database-Systems/assets/77360623/85d02395-3f1a-4e4a-bd6f-8f19dc5aafcf">
+
 ## Unix Shell Implementation:
 <img width="1000" alt="Screen Shot 2024-05-01 at 5 38 27 PM" src="https://github.com/ark22oct/Database-Systems/assets/77360623/8544ef53-a372-4330-82a9-e107afc2a79f">
+
 ## Advanced Queries:
 <img width="1000" alt="Screen Shot 2024-05-01 at 5 38 49 PM" src="https://github.com/ark22oct/Database-Systems/assets/77360623/5fc9e3a3-06f4-4a15-9745-bbf2ee3301b9">
+
 ## Java UI:
 <img width="1000" alt="Screen Shot 2024-05-01 at 5 39 20 PM" src="https://github.com/ark22oct/Database-Systems/assets/77360623/aab754fc-36f7-4b69-b4ea-e27b84c3622b">
 
